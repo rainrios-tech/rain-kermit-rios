@@ -8,6 +8,7 @@ Personal portfolio and resume website for Rain Kermit Rios.
 - `style.css` — portfolio styling
 - `script.js` — mobile navigation
 - `resume.html` — printer-friendly resume
+- `assets/` — illustrated project cover placeholders for the Projects gallery
 
 ## Deploy with GitHub Pages
 
@@ -27,3 +28,12 @@ The portfolio will normally be available at:
 The resume page includes a **Print / Save PDF** button. Open `resume.html` and choose **Save as PDF** from the browser print dialog.
 
 Before publishing, review the experience bullets and add any specific achievements, certifications, LinkedIn URL, or project links you want to showcase.
+
+
+## Projects gallery
+
+The homepage includes a Projects section with starter cards for the Redmine ticketing system, network design, Docker lab, and IT automation learning.
+
+The images in `assets/` are **illustrated placeholders**, not screenshots of completed work. Replace them with screenshots or photos you are allowed to share, keeping the same filenames or updating the image paths in `index.html`. Remove sensitive information such as credentials, public IP addresses, customer information, and internal company details before publishing.
+
+Review each project description so it accurately reflects your own work and current project status.
